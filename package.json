@@ -1,0 +1,23 @@
+{
+  "name": "soskeke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "soketi start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidsound/soskeke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acidsound/soskeke/issues"
+  },
+  "homepage": "https://github.com/acidsound/soskeke#readme",
+  "devDependencies": {
+    "@soketi/soketi": "^1.5.0"
+  }
+}
